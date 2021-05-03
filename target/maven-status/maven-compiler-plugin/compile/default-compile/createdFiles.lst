@@ -1,0 +1,4 @@
+com/example/securitydemo/student/studentController.class
+com/example/securitydemo/SecuritydemoApplication.class
+com/example/securitydemo/security/ApplicationSecurityConfig.class
+com/example/securitydemo/student/student.class
